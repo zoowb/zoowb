@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Jiwoo Choi 👋
+
+<img src="https://img.shields.io/badge/#A8B9CC?style=flat-square&logo=simpleiconsC&logoColor=white"/></a>&nbsp 
 
 <!--
 **zoowb/zoowb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
