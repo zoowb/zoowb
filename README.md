@@ -1,4 +1,3 @@
-### Hi I'm Jiwoo Choi 👋
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CD919E&height=150&section=header&text=Jiwoo%20Choi&fontSize=60)
 <br />
 <br />
