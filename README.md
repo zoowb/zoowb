@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CD919E&height=150&section=header&text=Jiwoo%20Choi&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=CD919E&height=30&section=header&text=Jiwoo%20Choi&fontSize=60)
 <br />
 <br />
 <h3 align="center">📚 I've used... 📚</h3>
