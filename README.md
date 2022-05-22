@@ -1,12 +1,13 @@
 <div align="center">
   
-## 💃Hello World! </h2>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=F7A300&background=FF000000&center=true&vCenter=true&lines=hello+world!%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
 최지우 / Jiwoo Choi</p>
 🎓KWU Computer Information Engineering <code>2019.03-</code>🎓 </p>
 <!-- 🎉2001.08.29🎉</p> -->
 <br />
 
-## 🌱Tech Skill
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=03EA30&background=FF000000&center=true&vCenter=true&lines=Tech+skill%F0%9F%8C%B1)](https://git.io/typing-svg)
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -29,7 +30,8 @@
 <br />
 <br />
 
-## 🔥Graph
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=FF0000&background=FF000000&center=true&vCenter=true&lines=Graph%F0%9F%94%A5)](https://git.io/typing-svg)
+
 ![Jiwoo's github stats](https://github-readme-stats.vercel.app/api?username=zoowb&show_icons=true&theme=tokyonight)
 
 
