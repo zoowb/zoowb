@@ -30,6 +30,15 @@
 <br />
 <br />
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=007DF7&center=true&vCenter=true&lines=Project%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+기간|제목|역할|Repository|
+|:---:|:---:|:---:|:---:|
+|<code>2022.06 - 진행 중</code>|중고 의류 판매 사이트|Front-End, Back-End| private |
+|<code>2021.07 - 2022.05</code>|NETS 모빌리티 서비스|Front-End, 배차Algorithm|https://github.com/NETS-mobility|
+|<code>2021.07 - 2021.12</code>|백신 접종 예약 시스템|Front-End|https://github.com/2021-2-DB-VACCINATION|
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=FF0000&background=FF000000&center=true&vCenter=true&lines=Graph%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Jiwoo's github stats](https://github-readme-stats.vercel.app/api?username=zoowb&show_icons=true&theme=tokyonight)
