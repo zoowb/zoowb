@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=F7A300&background=FF000000&center=true&vCenter=true&lines=hello+world!%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 최지우 / Jiwoo Choi</p>
-🎓KWU Computer Information Engineering <code>2019.03-</code>🎓 </p>
+🎓KWU Computer Information Engineering <code>2019.03-2023.02</code>🎓 </p>
 <!-- 🎉2001.08.29🎉</p> -->
 <br />
 
