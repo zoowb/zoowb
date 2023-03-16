@@ -35,6 +35,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=007DF7&center=true&vCenter=true&lines=Project%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 기간|제목|역할|Repository|
 |:---:|:---:|:---:|:---:|
+|<code>2022.09 - 2022.12</code>|반려동물 종합 정보 앱|Back-End| https://github.com/KW-PET |
 |<code>2022.06 - 2022.07</code>|중고 의류 판매 사이트|Front-End, Back-End| https://github.com/zoowb/Software-Engineering |
 |<code>2021.07 - 2022.05</code>|NETS 모빌리티 서비스|Front-End, 배차Algorithm|https://github.com/NETS-mobility|
 |<code>2021.07 - 2021.12</code>|백신 접종 예약 시스템|Front-End|https://github.com/2021-2-DB-VACCINATION|
