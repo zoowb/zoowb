@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'm+Jiwoo+Choi)](https://git.io/typing-svg)
 <hr />
-  안녕하세요! 프론트엔드에 많은 관심을 가지고 개발하고 있는 최지우입니다.
+  안녕하세요! 프론트엔드 개발에 많은 관심을 가지고있는 최지우입니다.
 
   새로운 기술을 받아들이고 응용하는 것을 좋아합니다.
 
